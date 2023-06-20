@@ -79,7 +79,7 @@ DATABASES = {
     'ENGINE': 'django.db.backends.postgresql',
     'NAME': 'finchcollector1',
     'USER': 'ahmedhesi',
-    'PASSWORD': '<% PASSWORD %>',
+    'PASSWORD': 'mpyFbUgH1ZJ6',
     'HOST': 'ep-super-voice-570876.us-west-2.aws.neon.tech',
     'PORT': '5432',
   }
